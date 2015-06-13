@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "bower": "^1.4.1",
     "cordova": "^5.1.1",
     "ios-sim": "^3.1.1",
     "phonegap": "^5.0.0-0.28.1"
