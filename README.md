@@ -43,7 +43,13 @@ eval "$(direnv hook zsh)"
 $ npm install
 ```
 
-# buid
+# build vendor js
+
+```
+$ gulp webpack
+```
+
+# build
 
 ```
 $ batoran
@@ -55,4 +61,13 @@ $ cordva build
 
 ```
 $ cordva run
+```
+
+
+# refresh
+
+```
+$ npm install
+$ bower install
+$ gulp webpack
 ```
