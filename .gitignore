@@ -5,7 +5,3 @@ build/**
 var/**
 Gemfile.lock
 .DS_Store
-
-
-**.log
-batoran/platforms/**
