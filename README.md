@@ -30,6 +30,13 @@ $ brew install direnv
 $ cd batran  # apply direnv
 ```
 
+その後ご自身が使用している*rcに以下を追加
+
+(例はzsh)
+```
+eval "$(direnv hook zsh)"
+```
+
 ## install npm packages
 
 ```
