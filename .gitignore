@@ -6,3 +6,4 @@ var/**
 Gemfile.lock
 .DS_Store
 tmp
+batoran/platforms/ios/cordova/console.log
